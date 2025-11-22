@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Finanças",
+  "name": "Controle Financeiro Mensal",
+  "description": "Aplicativo para educação financeira e controle de despesas mensais.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc"
+}
